@@ -1,7 +1,8 @@
 # Banking_management_system_project1
 
 Repository Name:
-Banking-Management-SystemREADME.md ContentProject Title:
+Banking-Management-System
+README.md ContentProject Title:
 BankingManagementSystemDescription
 A comprehensive banking management system designed to handle various banking operations.
 This system allows users to perform transactions, manage accounts, and view account details securely.FeaturesAccount 
